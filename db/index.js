@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-let connString = "mongodb://comic:comic123@ds219040.mlab.com:19040/comicapi";
+let connString = "xxxxxxxxxxx";
 const db = mongoose.connection;
 mongoose.connect(connString);
 
